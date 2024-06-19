@@ -1,0 +1,5 @@
+namelist=isluoluo, awa, driver166, aka
+folder_last_open=D:\desktop\softwares\minecraft\.minecraft
+version_last_open=1.20.6
+advanced_settings=True
+version_isolation=True
